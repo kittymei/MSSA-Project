@@ -2,7 +2,7 @@
 Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for my 19 week process. 
 
 # Budget App (Still thinking of a name)
-I am aiming to create a budget application. My husband and I set a monthly budget but we never follow it. I will be creating an application that will notify my users my users when they are coming close to their budget. 
+I am aiming to create a budget application. My husband and I set a monthly budget but we never follow it. I will be creating an application that will notify my users my users when they are coming close to their budget. I am also planning to let my user set goals for things like vacation, something expensive you might want to purchase, etc.
 
 # Wire Frame
 ![homepage](https://user-images.githubusercontent.com/52970331/62881223-29b7fd80-bce4-11e9-8b6a-74ee2da1887f.PNG)
