@@ -14,9 +14,8 @@ Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for
 I am aiming to create a budget application but I will be creating a website now since in class we are learning about HTML. My husband and I set a monthly budget but we never follow it. I will be creating an website that will notify my users my users when they are coming close to their budget. I am also planning to let my user set goals for things like vacation, something expensive you might want to purchase, etc.
 
 ## Wire Frame
-I orginally wanted to create an application so it would be easier for my users and I to to use but since I am still new to coding I decided to create a website first then make my website capable to be used on mobile devices. List below are some ideas of how I wanted my app to look like.
+I orginally wanted to create an application so it would be easier for my users and I to use but since I am still new to coding I decided to create a website first then make my website capable to be used on mobile devices. Listed below are some ideas of how I wanted my app to look like.
 
-- Future ideas for App
 ![homepage](https://user-images.githubusercontent.com/52970331/62881223-29b7fd80-bce4-11e9-8b6a-74ee2da1887f.PNG)
 ![app 2](https://user-images.githubusercontent.com/52970331/62881250-36d4ec80-bce4-11e9-9f60-f875a1a2df73.PNG)
 
