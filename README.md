@@ -4,8 +4,8 @@ Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for
 # Table of Contents
 1. [Piggy](#piggy)
 2. [Wire Frame](#wire-frame)
-3. [Entity Relationship Diagram (ERD)](#Entity Relationship Diagram (ERD))
-4. [RTM](
+3. [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
+4. [Requirements Traceability Matrix (RTM)](#requirements-traceability-matrix-rtm)
 4. [Database](#database)
 5. [My website](#my-website)
 4. [My presentation](#my-presentation)
@@ -25,11 +25,14 @@ I am aiming to create a budget application but I will be creating a website now 
 ## Entity Relationship Diagram (ERD)
 ![erd](https://user-images.githubusercontent.com/52970331/62880940-74854580-bce3-11e9-8525-dc7e1103320d.png)
 
-## Database
-![SQL 1](https://user-images.githubusercontent.com/52970331/64752586-047e0100-d4d5-11e9-9a2e-536640327bf6.jpg)
-![SQL 2](https://user-images.githubusercontent.com/52970331/64752607-0e9fff80-d4d5-11e9-87b0-784180ddee3b.jpg)
-![SQL 3](https://user-images.githubusercontent.com/52970331/64752610-0fd12c80-d4d5-11e9-8a10-7c197fef9c12.jpg)
+## Requirements Traceability Matrix (RTM)
+![RTM](https://user-images.githubusercontent.com/52970331/64753054-a05c3c80-d4d6-11e9-8a18-0598d1865b09.jpg)
 
+
+## Database
+![SQL 1](https://user-images.githubusercontent.com/52970331/64753147-01841000-d4d7-11e9-8aa3-1517ad7c088e.jpg)
+![SQL 2](https://user-images.githubusercontent.com/52970331/64753149-021ca680-d4d7-11e9-9795-e18f9ae38870.jpg)
+![SQL 3](https://user-images.githubusercontent.com/52970331/64753151-034dd380-d4d7-11e9-9531-8fcace8acccf.jpg)
 
 
 ## My Website
