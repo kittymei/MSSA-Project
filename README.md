@@ -9,6 +9,7 @@ Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for
 5. [Database](#database)
 6. [My website](#my-website)
 7. [My presentation](#my-presentation)
+8. [To do](#to-do)
 
 ## Piggy
 I am aiming to create a budget application but I will be creating a website now since in class we are learning about HTML. My husband and I set a monthly budget but we never follow it. I will be creating an website that will notify my users when they are coming close to their budget. I am also planning to let my user set goals for things like vacation, something expensive you might want to purchase, etc.
@@ -40,3 +41,9 @@ I orginally wanted to create an application so it would be easier for my users a
 
 ## My presentation
 https://prezi.com/view/dnAyQwYFk3GzlZRwdV6T/ 
+
+## To do
+- Need to make buttons work
+- Sign up/ Login page
+- Figure out to take data to make budget
+- Figure out how to send notifications
