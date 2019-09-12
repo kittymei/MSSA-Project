@@ -5,8 +5,10 @@ Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for
 1. [Piggy](#piggy)
 2. [Wire Frame](#wire-frame)
 3. [ERD](#erd)
-4. [My presentation](#my-presentation)
+4. [Database](#database)
+
 5. [My website](#my-website)
+4. [My presentation](#my-presentation)
 
 ## Piggy
 I am aiming to create a budget application but I will be creating a website now since in class we are learning about HTML. My husband and I set a monthly budget but we never follow it. I will be creating an website that will notify my users my users when they are coming close to their budget. I am also planning to let my user set goals for things like vacation, something expensive you might want to purchase, etc.
@@ -23,8 +25,12 @@ I am aiming to create a budget application but I will be creating a website now 
 ## ERD
 ![erd](https://user-images.githubusercontent.com/52970331/62880940-74854580-bce3-11e9-8525-dc7e1103320d.png)
 
-## My presentation
-https://prezi.com/view/dnAyQwYFk3GzlZRwdV6T/ 
+## Database
+![SQL 1](https://user-images.githubusercontent.com/52970331/64752586-047e0100-d4d5-11e9-9a2e-536640327bf6.jpg)
+![SQL 2](https://user-images.githubusercontent.com/52970331/64752607-0e9fff80-d4d5-11e9-87b0-784180ddee3b.jpg)
+![SQL 3](https://user-images.githubusercontent.com/52970331/64752610-0fd12c80-d4d5-11e9-8a10-7c197fef9c12.jpg)
+
+
 
 ## My Website
 - Part 1 out of 6
@@ -44,3 +50,6 @@ https://prezi.com/view/dnAyQwYFk3GzlZRwdV6T/
 
 - Part 6 out of 6
 ![F](https://user-images.githubusercontent.com/52970331/64751298-8a4b7d80-d4d0-11e9-8347-9eff110e000f.PNG)
+
+## My presentation
+https://prezi.com/view/dnAyQwYFk3GzlZRwdV6T/ 
