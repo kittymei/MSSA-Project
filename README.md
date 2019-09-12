@@ -16,23 +16,19 @@ I am aiming to create a budget application but I will be creating a website now 
 ## Requirements Traceability Matrix (RTM)
 ![RTM](https://user-images.githubusercontent.com/52970331/64753054-a05c3c80-d4d6-11e9-8a18-0598d1865b09.jpg)
 
+## Entity Relationship Diagram (ERD)
+![erd](https://user-images.githubusercontent.com/52970331/62880940-74854580-bce3-11e9-8525-dc7e1103320d.png)
+
 ## Wire Frame
 I orginally wanted to create an application so it would be easier for my users and I to use but since I am still new to coding I decided to create a website first then make my website capable to be used on mobile devices. Listed below are some ideas of how I wanted my app to look like.
 
 ![homepage](https://user-images.githubusercontent.com/52970331/62881223-29b7fd80-bce4-11e9-8b6a-74ee2da1887f.PNG)
 ![app 2](https://user-images.githubusercontent.com/52970331/62881250-36d4ec80-bce4-11e9-9f60-f875a1a2df73.PNG)
 
-## Entity Relationship Diagram (ERD)
-![erd](https://user-images.githubusercontent.com/52970331/62880940-74854580-bce3-11e9-8525-dc7e1103320d.png)
-
-
-
-
 ## Database
 ![SQL 1](https://user-images.githubusercontent.com/52970331/64753147-01841000-d4d7-11e9-8aa3-1517ad7c088e.jpg)
 ![SQL 2](https://user-images.githubusercontent.com/52970331/64753149-021ca680-d4d7-11e9-9795-e18f9ae38870.jpg)
 ![SQL 3](https://user-images.githubusercontent.com/52970331/64753151-034dd380-d4d7-11e9-9531-8fcace8acccf.jpg)
-
 
 ## My Website
 ![A](https://user-images.githubusercontent.com/52970331/64751097-f7aade80-d4cf-11e9-85a6-d391b7987702.PNG)
