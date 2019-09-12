@@ -33,22 +33,11 @@ I orginally wanted to create an application so it would be easier for my users a
 
 
 ## My Website
-- Part 1 out of 6
 ![A](https://user-images.githubusercontent.com/52970331/64751097-f7aade80-d4cf-11e9-85a6-d391b7987702.PNG)
-
-- Part 2 out of 6
 ![B](https://user-images.githubusercontent.com/52970331/64751155-2c1e9a80-d4d0-11e9-9404-27c783333f32.PNG)
-
-- Part 3 out of 6
 ![C](https://user-images.githubusercontent.com/52970331/64751190-45bfe200-d4d0-11e9-9629-96f815e007b8.PNG)
-
-- Part 4 out of 6
 ![D](https://user-images.githubusercontent.com/52970331/64751247-6a1bbe80-d4d0-11e9-9ceb-1ff9c40423cb.PNG)
-
-- Part 5 out of 6
 ![E](https://user-images.githubusercontent.com/52970331/64751461-fded8a80-d4d0-11e9-8018-44fd1fe1d137.PNG)
-
-- Part 6 out of 6
 ![F](https://user-images.githubusercontent.com/52970331/64751298-8a4b7d80-d4d0-11e9-8347-9eff110e000f.PNG)
 
 ## My presentation
