@@ -3,15 +3,18 @@ Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for
 
 # Table of Contents
 1. [Piggy](#piggy)
-2. [Wire Frame](#wire-frame)
+2. [Requirements Traceability Matrix (RTM)](#requirements-traceability-matrix-rtm)
 3. [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
-4. [Requirements Traceability Matrix (RTM)](#requirements-traceability-matrix-rtm)
-4. [Database](#database)
-5. [My website](#my-website)
-4. [My presentation](#my-presentation)
+4. [Wire Frame](#wire-frame)
+5. [Database](#database)
+6. [My website](#my-website)
+7. [My presentation](#my-presentation)
 
 ## Piggy
 I am aiming to create a budget application but I will be creating a website now since in class we are learning about HTML. My husband and I set a monthly budget but we never follow it. I will be creating an website that will notify my users my users when they are coming close to their budget. I am also planning to let my user set goals for things like vacation, something expensive you might want to purchase, etc.
+
+## Requirements Traceability Matrix (RTM)
+![RTM](https://user-images.githubusercontent.com/52970331/64753054-a05c3c80-d4d6-11e9-8a18-0598d1865b09.jpg)
 
 ## Wire Frame
 I orginally wanted to create an application so it would be easier for my users and I to use but since I am still new to coding I decided to create a website first then make my website capable to be used on mobile devices. Listed below are some ideas of how I wanted my app to look like.
@@ -22,8 +25,7 @@ I orginally wanted to create an application so it would be easier for my users a
 ## Entity Relationship Diagram (ERD)
 ![erd](https://user-images.githubusercontent.com/52970331/62880940-74854580-bce3-11e9-8525-dc7e1103320d.png)
 
-## Requirements Traceability Matrix (RTM)
-![RTM](https://user-images.githubusercontent.com/52970331/64753054-a05c3c80-d4d6-11e9-8a18-0598d1865b09.jpg)
+
 
 
 ## Database
