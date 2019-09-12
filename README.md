@@ -4,9 +4,9 @@ Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for
 # Table of Contents
 1. [Piggy](#piggy)
 2. [Wire Frame](#wire-frame)
-3. [ERD](#erd)
+3. [Entity Relationship Diagram (ERD)](#Entity Relationship Diagram (ERD))
+4. [RTM](
 4. [Database](#database)
-
 5. [My website](#my-website)
 4. [My presentation](#my-presentation)
 
@@ -22,7 +22,7 @@ I am aiming to create a budget application but I will be creating a website now 
 - Wire Frame 2
 ![app 2](https://user-images.githubusercontent.com/52970331/62881250-36d4ec80-bce4-11e9-9f60-f875a1a2df73.PNG)
 
-## ERD
+## Entity Relationship Diagram (ERD)
 ![erd](https://user-images.githubusercontent.com/52970331/62880940-74854580-bce3-11e9-8525-dc7e1103320d.png)
 
 ## Database
