@@ -1,5 +1,4 @@
-# MSSA-Project
-Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for my 19 week process. 
+# Side project
 
 # Table of Contents
 1. [Piggy](#piggy)
@@ -12,7 +11,7 @@ Welcome to my Microsoft Software & System Academy (MSSA) project. Stay tuned for
 8. [To do](#to-do)
 
 ## Piggy
-I am aiming to create a budget application but I will be creating a website now since in class we are learning about HTML. My husband and I set a monthly budget but we never follow it. I will be creating an website that will notify my users when they are coming close to their budget. I am also planning to let my user set goals for things like vacation, something expensive you might want to purchase, etc.
+I am aiming to create a budget application but I will be creating a website. My husband and I set a monthly budget but we never follow it. I will be creating an website that will notify my users when they are coming close to their budget. I am also planning to let my user set goals for things like vacation, something expensive you might want to purchase, etc.
 
 ## Requirements Traceability Matrix (RTM)
 ![RTM](https://user-images.githubusercontent.com/52970331/64753054-a05c3c80-d4d6-11e9-8a18-0598d1865b09.jpg)
